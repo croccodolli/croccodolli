@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1> Oi, bem vinda/o ao meu Github 👋 </h1>
 
-<!--
-**croccodolli/croccodolli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Clara Comandolli, sou jornalista de formação e atualmente estou em transição de carreira, estudando para me tornar Desenvolvedora Front-End.
 
-Here are some ideas to get you started:
+💻 Atualmente trabalho como Assessora de Comunicação em uma ONG sediada em Florianópolis/SC;
+🧠 Sou aluna da Alura e estou direcionando meus estudos para o Desenvolvimento Front-End;
+📫 Você pode me contactar através do claracomandolli@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> Estou fluente em... </h2>
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
+          
+          
