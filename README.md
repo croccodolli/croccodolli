@@ -7,7 +7,7 @@ Me chamo Clara Comandolli, sou jornalista de formação e atualmente estou em tr
 🧠 Sou aluna da Alura e estou direcionando meus estudos para o Desenvolvimento Front-End;
 <br>
 <br>
-📫 Você pode me contactar através do claracomandolli@gmail.com
+📫 Você pode me contactar através do e-mail: claracomandolli@gmail.com
 <br>
 <br>
 <a href="https://www.linkedin.com/in/claracomandollis/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
